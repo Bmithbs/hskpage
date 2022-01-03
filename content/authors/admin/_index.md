@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hu, Senkang (胡森康)
+title: Hu, Senkang
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,8 +27,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Artificial Intelligence
-    institution: University of Chinese Academy of Sciences
-    institution: Aerospace Information Research Institute, Chinese Academy of Sciences
+    institution: University of Chinese Academy of Sciences; Aerospace Information Research Institute, Chinese Academy of Sciences
     year: 2022
   - course: B.Sc. in Electronic and Information Engineer
     institution: Beijing Institute of Technology
@@ -48,12 +47,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Bmithbs
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/senkang-hu-3123681b5
@@ -72,6 +71,6 @@ email: "huhbu@outlook.com"
 highlight_name: true
 ---
 
-I’m Hu Henkang (胡森康), a Ph.D. student in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), also in [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn), supervised by Prof. [Fu kun](http://people.ucas.ac.cn/~fukun) and Prof. [Sun Xian](http://people.ucas.ac.cn/~sunxian). I get my B.Sc. degree in electronic information engineering, Beijing Institute of Technology. Now I'm engaged in the research of artificial intelligence, computer vision, intelligent processing information, etc. If you have any academic question or other questions, please drop me an email!
+I’m Hu Senkang, a Ph.D. student in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), also in [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn), supervised by Prof. [Fu kun](http://people.ucas.ac.cn/~fukun) and Prof. [Sun Xian](http://people.ucas.ac.cn/~sunxian). I get my B.Sc. degree in electronic information engineering, Beijing Institute of Technology in 2022. Now I'm engaged in the research of artificial intelligence, computer vision, intelligent processing information, etc. If you have any academic question or other questions, please drop me an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
