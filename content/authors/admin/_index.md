@@ -11,7 +11,7 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Chinese Academy of Sciences
-  url: https://www.stanford.edu/
+  url: https://www.ucas.ac.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,10 +28,10 @@ education:
   courses:
   - course: Ph.D. in Artificial Intelligence
     institution: University of Chinese Academy of Sciences; Aerospace Information Research Institute, Chinese Academy of Sciences
-    year: 2022
+    year: 2022 - 2027
   - course: B.Sc. in Electronic and Information Engineer
     institution: Beijing Institute of Technology
-    year: 2018
+    year: 2018 - 2022
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2008
@@ -71,6 +71,6 @@ email: "huhbu@outlook.com"
 highlight_name: true
 ---
 
-I’m Hu Senkang, a Ph.D. student in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), also in [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn), supervised by Prof. [Fu kun](http://people.ucas.ac.cn/~fukun) and Prof. [Sun Xian](http://people.ucas.ac.cn/~sunxian). I get my B.Sc. degree in electronic information engineering, Beijing Institute of Technology in 2022. Now I'm engaged in the research of artificial intelligence, computer vision, intelligent processing information, etc. If you have any academic question or other questions, please drop me an email!
+I’m Hu Senkang, a Ph.D. student in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), also in [Aerospace Information Research Institute](http://www.aircas.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn), supervised by Prof. [Fu kun](http://people.ucas.ac.cn/~fukun) and Prof. [Sun Xian](http://people.ucas.ac.cn/~sunxian). I get my B.Sc. degree in electronic information engineering, Beijing Institute of Technology in 2022. Now I'm engaged in the research of artificial intelligence, computer vision, intelligent processing information, etc. If you have any academic question or other questions, please drop me an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
