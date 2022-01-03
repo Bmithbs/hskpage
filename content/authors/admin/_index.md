@@ -29,7 +29,7 @@ education:
   - course: Ph.D. in Artificial Intelligence
     institution: University of Chinese Academy of Sciences; Aerospace Information Research Institute, Chinese Academy of Sciences
     year: 2022 - 2027
-  - course: B.Sc. in Electronic and Information Engineer
+  - course: B.Sc. in Electronic and Information Engineering
     institution: Beijing Institute of Technology
     year: 2018 - 2022
   # - course: BSc in Artificial Intelligence
