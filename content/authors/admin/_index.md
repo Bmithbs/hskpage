@@ -28,6 +28,7 @@ education:
   courses:
   - course: Ph.D. in Artificial Intelligence
     institution: University of Chinese Academy of Sciences
+    institution: Aerospace Information Research Institute, Chinese Academy of Sciences
     year: 2022
   - course: B.Sc. in Electronic and Information Engineer
     institution: Beijing Institute of Technology
@@ -43,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '/#huhbu@outlook.com'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -55,7 +56,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/senkang-hu-3123681b5
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,14 +66,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "huhbu@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m Hu Henkang (胡森康), a Ph.D. student in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), also in [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn), supervised by Prof. [Fu kun](http://people.ucas.ac.cn/~fukun) and Prof. [Sun Xian](http://people.ucas.ac.cn/~sunxian). I get my B.Sc. degree in electronic information engineering, Beijing Institute of Technology. Now I'm engaged in the research of artificial intelligence, computer vision, intelligent processing information, etc. If you have any academic question or other questions, please drop me an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
