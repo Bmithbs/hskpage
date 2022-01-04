@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: http://www.moe.gov.cn
-  date_end: ""
-  date_start: "2021-10-01"
-  description: 1%
+ #certificate_url: http://www.moe.gov.cn
+  #date_end: ""
+- date_start: "2021-10-01"
+  description: Top 1%
   organization: Ministry of Education of Peoples's Republic of China
   organization_url: http://www.moe.gov.cn
   title: National Scholarship
-  url: ""
+  #url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
