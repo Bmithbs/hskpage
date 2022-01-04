@@ -42,7 +42,7 @@ item:
   organization: Beijing Institute of Technology
   organization_url: http://www.bit.edu.cn
   title: Outstanding Students (Top 5%, 2 times)
-- date_start: "202-11-01"
+- date_start: "2021-11-01"
   # description: Top 1%
   organization: Beijing Institute of Technology
   organization_url: http://www.bit.edu.cn
