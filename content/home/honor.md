@@ -1,5 +1,5 @@
 ---
-widget: honor
+widget: blank
 
 headless: true
 
