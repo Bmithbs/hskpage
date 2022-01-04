@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 45
-title: Hoonors
+title: Honors
 data_format: Jan 2006
 design:
     columns: '2'
