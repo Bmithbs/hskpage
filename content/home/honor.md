@@ -3,7 +3,7 @@ widget: blank
 
 headless: true
 
-weight: 45
+weight:
 
 title: Honors
 
